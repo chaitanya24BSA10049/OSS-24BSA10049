@@ -1,0 +1,13 @@
+==============================
+   Open Source Manifesto
+==============================
+Author: chaitanya
+Date: 30 March 2026
+
+I believe in the power of open source.
+Using tools like linux every day reminds me that collaboration drives innovation.
+To me, freedom means freewill.
+I commit to building and sharing value with the world,
+so that knowledge remains open, accessible, and empowering for everyone.
+
+— chaitanya
